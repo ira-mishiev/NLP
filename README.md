@@ -10,7 +10,7 @@ Due to the technologies, the information we receive online is highly customized.
 
 Data
 
-I will use data from Kaggle that consists of 227 450 tweets of the one day of the war.
+I used data from Kaggle that consists of 227 450 tweets of the one day of the war.
 https://www.kaggle.com/code/alifiyabatterywala/ukraine-vs-russian-topic-modeling/data
 
 Algorithms
