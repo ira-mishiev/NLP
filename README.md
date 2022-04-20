@@ -22,8 +22,11 @@ Sentiment: retrieved the most popular adjectives for some frequently appeared na
 Tools
 
 For Topic modelling - Gensin,Sklearn
+
 For sentiment analysis - SpaCy, word2vec
+
 For text preprocessing NLTK
+
 For visualization pyLDAvis, Matplotlib
 
 Communication
